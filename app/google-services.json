@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "881880254035",
+    "firebase_url": "https://ikeproject4.firebaseio.com",
+    "project_id": "ikeproject4",
+    "storage_bucket": "ikeproject4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881880254035:android:8f036079532d65252468a6",
+        "android_client_info": {
+          "package_name": "com.example.ikeproject4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881880254035-vvi31piituv8s21i4sgi3qb8rvrkfo2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB633QOToTdr9BlR5j0-w0X5KUcJPT4nZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881880254035-vvi31piituv8s21i4sgi3qb8rvrkfo2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
